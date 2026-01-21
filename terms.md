@@ -9,4 +9,4 @@ The app does not create, modify, or manage advertising campaigns.
 The app is provided "as is" without warranties of any kind.
 
 ## Contact
-your@email.com
+Analyst@posxiblelab.com
