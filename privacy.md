@@ -15,4 +15,4 @@ No data is shared with third parties.
 All data is stored securely and accessed only by authorized users.
 
 ## Contact
-If you have questions about this policy, contact: your@email.com
+If you have questions about this policy, contact: Analyst@posxiblelab.com
